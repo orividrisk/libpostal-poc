@@ -6,7 +6,6 @@ prerequisite:
 2. java
 3. macos
 
-This project uses generated address provided by the java Faker library.
 
 In order to run the memory leak simulation use case:
 * run the `run-address-parsing.sh`
